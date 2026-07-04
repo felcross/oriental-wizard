@@ -1,0 +1,44 @@
+{
+  "id": "fundacao-do-mundo",
+  "titulo": "A Fundação do Mundo",
+  "subtitulo": "A História de Nihongan",
+  "modo": "sincronizado",
+  "audio": "/audio/fundacao-do-mundo.mp3",
+  "timeline": [
+    {
+      "tempo": 0,
+      "imagem": "/img/cena1_nihongan.jpg",
+      "legenda": "Nihongan, o Império de Jade. Um novo povo surgiu em um arquipélago distante..."
+    },
+    {
+      "tempo": 32,
+      "imagem": "/img/cena2_shugenja.jpg",
+      "legenda": "Os rios, montanhas e florestas eram habitados por entidades. Surgiram os Shugenjas..."
+    },
+    {
+      "tempo": 64,
+      "imagem": "/img/cena3_fosso_yokai.jpg",
+      "legenda": "De um enorme fosso emanava um miasma escuro. Nihongan era habitada por incontáveis Yōkai..."
+    },
+    {
+      "tempo": 96,
+      "imagem": "/img/cena4_invasao.jpg",
+      "legenda": "Por muitos anos viveram em relativa paz. Até a chegada do imperador sombrio, Fu Leng..."
+    },
+    {
+      "tempo": 128,
+      "imagem": "/img/cena5_pergaminho.jpg",
+      "legenda": "Fu Leng aproximou-se do grande fosso. Uma entidade das sombras lhe entregara um antigo pergaminho..."
+    },
+    {
+      "tempo": 160,
+      "imagem": "/img/cena6_deus_sombrio.jpg",
+      "legenda": "A verdade revelou-se. Ele era o próprio Fu Leng, o Deus Sombrio. Memórias de Rokugan e a queda retornaram..."
+    },
+    {
+      "tempo": 192,
+      "imagem": "/img/cena7_renascimento.jpg",
+      "legenda": "Fu Leng lançou o Tao nas profundezas do fosso... E naquele mesmo instante, Nana renascia."
+    }
+  ]
+}

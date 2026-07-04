@@ -1,0 +1,15 @@
+{
+  "id": "ecos-da-fundacao",
+  "titulo": "Ecos da Fundação",
+  "subtitulo": "Fragmentos do que restou daqueles dias",
+  "modo": "ambiente",
+  "audio": "/audio/ecos-da-fundacao.mp3",
+  "poolImagens": [
+    "/img/placeholder-01.jpg",
+    "/img/placeholder-02.jpg",
+    "/img/placeholder-03.jpg",
+    "/img/placeholder-04.jpg"
+  ],
+  "intervaloMinSegundos": 4,
+  "intervaloMaxSegundos": 9
+}
