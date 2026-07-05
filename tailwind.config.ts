@@ -16,8 +16,8 @@ const config: Config = {
         jade: "#4C6B5E",
       },
       fontFamily: {
-        display: ["'Shippori Mincho'", "serif"],
-        body: ["'Zen Kaku Gothic New'", "sans-serif"],
+        display: ["'Ma Shan Zheng'", "cursive"],
+        body: ["'Noto Serif JP'", "serif"],
       },
       keyframes: {
         "seal-pulse": {

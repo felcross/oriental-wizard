@@ -17,11 +17,11 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
-          href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@300;400;500&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+JP:wght@400;500;700&display=swap"
           rel="stylesheet"
         />
       </head>
-      <body className="bg-sumi text-washi antialiased" style={{ fontFamily: "'Zen Kaku Gothic New', sans-serif" }}>
+      <body className="bg-sumi text-washi antialiased" style={{ fontFamily: "'Noto Serif JP', serif" }}>
         {children}
       </body>
     </html>
