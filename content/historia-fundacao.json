@@ -7,37 +7,97 @@
   "timeline": [
     {
       "tempo": 0,
-      "imagem": "/img/cena1_nihongan.jpg",
-      "legenda": "Nihongan, o Império de Jade. Um novo povo surgiu em um arquipélago distante..."
+      "imagem": "/img/frame_01.jpg",
+      "legenda": "Nihongan, o Império de Jade. Um novo povo surge em um arquipélago distante..."
     },
     {
-      "tempo": 32,
-      "imagem": "/img/cena2_shugenja.jpg",
-      "legenda": "Os rios, montanhas e florestas eram habitados por entidades. Surgiram os Shugenjas..."
+      "tempo": 12,
+      "imagem": "/img/frame_02.jpg",
+      "legenda": "Florestas de pinheiros, montanhas envoltas por névoas e extensos campos de arroz."
     },
     {
-      "tempo": 64,
-      "imagem": "/img/cena3_fosso_yokai.jpg",
-      "legenda": "De um enorme fosso emanava um miasma escuro. Nihongan era habitada por incontáveis Yōkai..."
+      "tempo": 24,
+      "imagem": "/img/frame_03.jpg",
+      "legenda": "As quatro estações moldam a vida, e os ventos carregam a voz dos espíritos."
+    },
+    {
+      "tempo": 36,
+      "imagem": "/img/frame_04.jpg",
+      "legenda": "Seu povo vivia em íntima harmonia com os elementos e os espíritos da natureza."
+    },
+    {
+      "tempo": 48,
+      "imagem": "/img/frame_05.jpg",
+      "legenda": "Xamãs capazes de conversar com os espíritos e solicitar seu auxílio: os Shugenjas."
+    },
+    {
+      "tempo": 60,
+      "imagem": "/img/frame_06.jpg",
+      "legenda": "Mas apesar da beleza das ilhas, uma sombra pairava sobre elas."
+    },
+    {
+      "tempo": 72,
+      "imagem": "/img/frame_07.jpg",
+      "legenda": "Em uma região isolada existia um enorme fosso que descia para as profundezas."
+    },
+    {
+      "tempo": 84,
+      "imagem": "/img/frame_08.jpg",
+      "legenda": "Dele emanava um miasma escuro e mortal. Quem permanecia próximo, adoecia."
     },
     {
       "tempo": 96,
-      "imagem": "/img/cena4_invasao.jpg",
-      "legenda": "Por muitos anos viveram em relativa paz. Até a chegada do imperador sombrio, Fu Leng..."
+      "imagem": "/img/frame_09.jpg",
+      "legenda": "Nihongan era habitada por incontáveis Yōkai, criaturas sobrenaturais."
     },
     {
-      "tempo": 128,
-      "imagem": "/img/cena5_pergaminho.jpg",
-      "legenda": "Fu Leng aproximou-se do grande fosso. Uma entidade das sombras lhe entregara um antigo pergaminho..."
+      "tempo": 108,
+      "imagem": "/img/frame_10.jpg",
+      "legenda": "Pequenos clãs surgiram, venerando os elementos em relativa paz. Até a chegada do conquistador."
     },
     {
-      "tempo": 160,
-      "imagem": "/img/cena6_deus_sombrio.jpg",
-      "legenda": "A verdade revelou-se. Ele era o próprio Fu Leng, o Deus Sombrio. Memórias de Rokugan e a queda retornaram..."
+      "tempo": 120,
+      "imagem": "/img/frame_11.jpg",
+      "legenda": "Do sul, vindo da grande massa continental, surgiu o poderoso imperador Fu Leng."
+    },
+    {
+      "tempo": 132,
+      "imagem": "/img/frame_12.jpg",
+      "legenda": "Os clãs resistiram. Guerreiros e shugenjas mostraram-se adversários formidáveis."
+    },
+    {
+      "tempo": 144,
+      "imagem": "/img/frame_13.jpg",
+      "legenda": "A guerra prolongou-se por anos. Então Fu Leng aproximou-se do grande fosso."
+    },
+    {
+      "tempo": 156,
+      "imagem": "/img/frame_14.jpg",
+      "legenda": "Ele carregava consigo um presente antigo das sombras: um pergaminho."
+    },
+    {
+      "tempo": 168,
+      "imagem": "/img/frame_15.jpg",
+      "legenda": "O próprio Tao de Fu Leng. Diante do fosso e do miasma, o pergaminho despertou."
+    },
+    {
+      "tempo": 180,
+      "imagem": "/img/frame_16.jpg",
+      "legenda": "Memórias esquecidas retornaram. Ele era o próprio Fu Leng, o Deus Sombrio."
     },
     {
       "tempo": 192,
-      "imagem": "/img/cena7_renascimento.jpg",
+      "imagem": "/img/frame_17.jpg",
+      "legenda": "As guerras. Os céus. Rokugan. A queda. Tudo voltou."
+    },
+    {
+      "tempo": 204,
+      "imagem": "/img/frame_18.jpg",
+      "legenda": "Mas Jigoku não respondia. A Mácula ainda existia, porém enfraquecida e distante."
+    },
+    {
+      "tempo": 216,
+      "imagem": "/img/frame_19.jpg",
       "legenda": "Fu Leng lançou o Tao nas profundezas do fosso... E naquele mesmo instante, Nana renascia."
     }
   ]
