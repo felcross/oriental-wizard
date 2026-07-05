@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+data
+.git
+.github
+*.md
+.mimocode
+.env*

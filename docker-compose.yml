@@ -1,0 +1,11 @@
+services:
+  historia:
+    build: .
+    container_name: historia
+    restart: unless-stopped
+    networks:
+      - rede_vps
+
+networks:
+  rede_vps:
+    external: true
