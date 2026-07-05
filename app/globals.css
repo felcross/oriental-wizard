@@ -8,7 +8,7 @@
 
 html,
 body {
-  background-color: #14181c;
+  background-color: #0F2537;
   overscroll-behavior: none;
 }
 
@@ -31,6 +31,6 @@ body {
   background: radial-gradient(
     ellipse at center,
     transparent 45%,
-    rgba(20, 24, 28, 0.85) 100%
+    rgba(15, 37, 55, 0.85) 100%
   );
 }

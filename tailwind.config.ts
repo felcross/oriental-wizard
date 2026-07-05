@@ -8,12 +8,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        sumi: "#14181C",
-        "indigo-void": "#1F2A3D",
-        washi: "#EDE6D6",
-        ember: "#C9A24B",
-        lacquer: "#8C2F2F",
-        jade: "#4C6B5E",
+        "hokusai-deep-blue": "#0F2537",
+        "kanagawa-wave": "#1D4461",
+        "sea-foam": "#F3F0E7",
+        "fuji-sky": "#E5CCA0",
+        "hokusai-signature": "#BC3A33",
       },
       fontFamily: {
         display: ["'Ma Shan Zheng'", "cursive"],
@@ -21,9 +20,9 @@ const config: Config = {
       },
       keyframes: {
         "seal-pulse": {
-          "0%": { boxShadow: "0 0 0 0 rgba(140,47,47,0.7)" },
-          "70%": { boxShadow: "0 0 0 14px rgba(140,47,47,0)" },
-          "100%": { boxShadow: "0 0 0 0 rgba(140,47,47,0)" },
+          "0%": { boxShadow: "0 0 0 0 rgba(188,58,51,0.7)" },
+          "70%": { boxShadow: "0 0 0 14px rgba(188,58,51,0)" },
+          "100%": { boxShadow: "0 0 0 0 rgba(188,58,51,0)" },
         },
         "drift-in": {
           "0%": { opacity: "0", transform: "translateY(24px) scale(0.96)" },

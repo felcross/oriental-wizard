@@ -17,7 +17,7 @@ export function Wizard({ historia }: WizardProps) {
   const [estado, setEstado] = useState<EstadoWizard>("titulo");
 
   return (
-    <div className="relative h-dvh w-full bg-sumi">
+    <div className="relative h-dvh w-full bg-hokusai-deep-blue">
       <AnimatePresence mode="wait">
         {estado === "titulo" && (
           <TitleScreen

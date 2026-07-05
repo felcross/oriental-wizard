@@ -33,8 +33,8 @@ export function SyncedMode({ historia, onFinalizar }: SyncedModeProps) {
         />
       ) : (
         <div className="flex flex-col items-center gap-4">
-          <div className="h-2 w-2 animate-pulse rounded-full bg-ember/50" />
-          <p className="font-body text-xs tracking-widest text-washi/30 uppercase">
+          <div className="h-2 w-2 animate-pulse rounded-full bg-fuji-sky/50" />
+          <p className="font-body text-xs tracking-widest text-sea-foam/30 uppercase">
             Preparando...
           </p>
         </div>
@@ -52,9 +52,9 @@ export function SyncedMode({ historia, onFinalizar }: SyncedModeProps) {
             onClick={repetir}
             className="group relative"
           >
-            <span className="absolute inset-0 border border-ember/30 transition-all duration-500 group-hover:border-ember/60" />
-            <span className="absolute inset-[2px] border border-ember/15 transition-all duration-500 group-hover:border-ember/30" />
-            <span className="relative block px-10 py-3 font-display text-base tracking-wider text-washi/90 transition-colors duration-300 group-hover:text-washi sm:px-12">
+            <span className="absolute inset-0 border border-fuji-sky/30 transition-all duration-500 group-hover:border-fuji-sky/60" />
+            <span className="absolute inset-[2px] border border-fuji-sky/15 transition-all duration-500 group-hover:border-fuji-sky/30" />
+            <span className="relative block px-10 py-3 font-display text-base tracking-wider text-sea-foam/90 transition-colors duration-300 group-hover:text-sea-foam sm:px-12">
               Contar novamente
             </span>
           </button>
@@ -62,7 +62,7 @@ export function SyncedMode({ historia, onFinalizar }: SyncedModeProps) {
           {/* Link encerrar */}
           <button
             onClick={onFinalizar}
-            className="font-body text-[10px] uppercase tracking-[0.25em] text-washi/30 transition-colors duration-300 hover:text-washi/60 sm:text-xs"
+            className="font-body text-[10px] uppercase tracking-[0.25em] text-sea-foam/30 transition-colors duration-300 hover:text-sea-foam/60 sm:text-xs"
           >
             Encerrar
           </button>

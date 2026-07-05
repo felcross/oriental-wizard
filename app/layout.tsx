@@ -21,7 +21,7 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body className="bg-sumi text-washi antialiased" style={{ fontFamily: "'Noto Serif JP', serif" }}>
+      <body className="bg-hokusai-deep-blue text-sea-foam antialiased" style={{ fontFamily: "'Noto Serif JP', serif" }}>
         {children}
       </body>
     </html>

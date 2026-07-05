@@ -113,7 +113,7 @@ export function AmbientMode({ historia, onFinalizar }: AmbientModeProps) {
 
       {/* Vinheta de tinta — mais intensa em mobile */}
       <div className="ink-vignette" />
-      <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-sumi/30 via-transparent to-sumi/50" />
+      <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-hokusai-deep-blue/30 via-transparent to-hokusai-deep-blue/50" />
 
       {acabou && (
         <motion.div
@@ -127,9 +127,9 @@ export function AmbientMode({ historia, onFinalizar }: AmbientModeProps) {
             onClick={handleRepetir}
             className="group relative"
           >
-            <span className="absolute inset-0 border border-ember/30 transition-all duration-500 group-hover:border-ember/60" />
-            <span className="absolute inset-[2px] border border-ember/15 transition-all duration-500 group-hover:border-ember/30" />
-            <span className="relative block px-10 py-3 font-display text-base tracking-wider text-washi/90 transition-colors duration-300 group-hover:text-washi sm:px-12">
+            <span className="absolute inset-0 border border-fuji-sky/30 transition-all duration-500 group-hover:border-fuji-sky/60" />
+            <span className="absolute inset-[2px] border border-fuji-sky/15 transition-all duration-500 group-hover:border-fuji-sky/30" />
+            <span className="relative block px-10 py-3 font-display text-base tracking-wider text-sea-foam/90 transition-colors duration-300 group-hover:text-sea-foam sm:px-12">
               Contar novamente
             </span>
           </button>
@@ -137,7 +137,7 @@ export function AmbientMode({ historia, onFinalizar }: AmbientModeProps) {
           {/* Link encerrar */}
           <button
             onClick={onFinalizar}
-            className="font-body text-[10px] uppercase tracking-[0.25em] text-washi/30 transition-colors duration-300 hover:text-washi/60 sm:text-xs"
+            className="font-body text-[10px] uppercase tracking-[0.25em] text-sea-foam/30 transition-colors duration-300 hover:text-sea-foam/60 sm:text-xs"
           >
             Encerrar
           </button>

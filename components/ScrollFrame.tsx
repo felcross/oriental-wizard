@@ -22,9 +22,9 @@ export function ScrollFrame({
 }: ScrollFrameProps) {
   return (
     <div className="relative w-full max-w-2xl">
-      <div className="relative rounded-sm border border-ember/40 p-2">
-        <div className="rounded-[2px] border border-ember/70 p-1">
-          <div className="relative aspect-[4/3] overflow-hidden rounded-[1px] bg-indigo-void">
+      <div className="relative rounded-sm border border-fuji-sky/40 p-2">
+        <div className="rounded-[2px] border border-fuji-sky/70 p-1">
+          <div className="relative aspect-[4/3] overflow-hidden rounded-[1px] bg-kanagawa-wave">
             <AnimatePresence mode="wait">
               <motion.img
                 key={chaveTroca}
@@ -43,15 +43,15 @@ export function ScrollFrame({
 
       {/* Selo — indicador de avanço da história */}
       <div
-        className={`absolute -bottom-3 -right-3 flex h-9 w-9 items-center justify-center rounded-full border-2 border-lacquer bg-sumi ${
+        className={`absolute -bottom-3 -right-3 flex h-9 w-9 items-center justify-center rounded-full border-2 border-hokusai-signature bg-hokusai-deep-blue ${
           destacarSelo ? "animate-seal-pulse" : ""
         }`}
       >
-        <div className="h-3 w-3 rounded-full bg-lacquer" />
+        <div className="h-3 w-3 rounded-full bg-hokusai-signature" />
       </div>
 
       {legenda && (
-        <p className="mt-6 text-center font-display text-lg leading-relaxed text-washi/90">
+        <p className="mt-6 text-center font-display text-lg leading-relaxed text-sea-foam/90">
           {legenda}
         </p>
       )}
